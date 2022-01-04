@@ -1,0 +1,31 @@
+ROM:
+- Merge January Security Patch
+- Add Pulse music visualizer for navbar, lockscreen and ambient screen
+- Restore icon shapes from A11
+- DerpSpace: Add previews for icon shapes, icon packs, fonts, wifi icon, signal icons customisations
+- DerpSpace: Apply overlays from background thread
+- Add Screen off animations
+- Make media player view less-gore when artwork bg is enabled
+- Update Google SmartSpace from Statix and remove toggle
+- DerpLauncher: Improve SmartSpace implementation
+- DerpLauncher: Use themed icon for AOSP deskclock too
+- DerpLauncher: Workspace: Allow resizing any widget
+- DerpLauncher: Pull in Screenshot drawable from Pixel launcher
+- Improve GameSpace lifecycle and broadcast handling
+- GameSpace: Use Pixel's material-you illustration preference
+- Add option to automatically reboot device after timeout if set
+- Add capability to allow tethering to use VPN upstreams
+- Fix issues with BatteryUsageStats
+- Add settings to toggle the phantom process monitoring in dev options
+- Sound: Add volume panel on left toggle
+- Add back Descendant's Idle Manager
+- Add Volume Rocker Wake switch
+- Apply monet to fingerprint authentication ripple animation
+- Use a double click effect for charging if there is no amplitude control support
+- Refactor notification counter code
+- ThemeOverlayApplier: Catch a potential NPE
+- InputMethodUtils: Fix system bootloop when no IME found
+- NavigationModeController: Silence log spam
+- Settings: add title for Beam main switch
+- Settings: only set phone number if it's not empty
+- Settings: Refactor Wifi Calling description text
